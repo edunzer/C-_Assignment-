@@ -1,2 +1,2 @@
-# C-_Assignment-
-Oregon Tech C++ class assignments
+# C-sharp_Assignment-
+Oregon Tech C# class assignments
