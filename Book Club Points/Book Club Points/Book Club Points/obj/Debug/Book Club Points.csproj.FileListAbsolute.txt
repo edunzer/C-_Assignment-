@@ -1,0 +1,10 @@
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 3\Book Club Points\Book Club Points\Book Club Points\bin\Debug\Book Club Points.exe.config
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 3\Book Club Points\Book Club Points\Book Club Points\bin\Debug\Book Club Points.exe
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 3\Book Club Points\Book Club Points\Book Club Points\bin\Debug\Book Club Points.pdb
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 3\Book Club Points\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csprojAssemblyReference.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 3\Book Club Points\Book Club Points\Book Club Points\obj\Debug\Book_Club_Points.Form1.resources
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 3\Book Club Points\Book Club Points\Book Club Points\obj\Debug\Book_Club_Points.Properties.Resources.resources
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 3\Book Club Points\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csproj.GenerateResource.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 3\Book Club Points\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csproj.CoreCompileInputs.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 3\Book Club Points\Book Club Points\Book Club Points\obj\Debug\Book Club Points.exe
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 3\Book Club Points\Book Club Points\Book Club Points\obj\Debug\Book Club Points.pdb
