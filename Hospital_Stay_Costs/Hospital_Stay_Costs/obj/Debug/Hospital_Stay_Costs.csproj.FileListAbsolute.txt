@@ -1,0 +1,10 @@
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Hospital_Stay_Costs\Hospital_Stay_Costs\bin\Debug\Hospital_Stay_Costs.exe.config
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Hospital_Stay_Costs\Hospital_Stay_Costs\bin\Debug\Hospital_Stay_Costs.exe
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Hospital_Stay_Costs\Hospital_Stay_Costs\bin\Debug\Hospital_Stay_Costs.pdb
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Hospital_Stay_Costs\Hospital_Stay_Costs\obj\Debug\Hospital_Stay_Costs.csprojAssemblyReference.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Hospital_Stay_Costs\Hospital_Stay_Costs\obj\Debug\Hospital_Stay_Costs.Form1.resources
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Hospital_Stay_Costs\Hospital_Stay_Costs\obj\Debug\Hospital_Stay_Costs.Properties.Resources.resources
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Hospital_Stay_Costs\Hospital_Stay_Costs\obj\Debug\Hospital_Stay_Costs.csproj.GenerateResource.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Hospital_Stay_Costs\Hospital_Stay_Costs\obj\Debug\Hospital_Stay_Costs.csproj.CoreCompileInputs.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Hospital_Stay_Costs\Hospital_Stay_Costs\obj\Debug\Hospital_Stay_Costs.exe
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Hospital_Stay_Costs\Hospital_Stay_Costs\obj\Debug\Hospital_Stay_Costs.pdb
