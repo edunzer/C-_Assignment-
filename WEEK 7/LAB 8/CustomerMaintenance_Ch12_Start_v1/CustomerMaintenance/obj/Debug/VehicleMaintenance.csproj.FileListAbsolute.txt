@@ -1,0 +1,11 @@
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 8\CustomerMaintenance_Ch12_Start\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 8\CustomerMaintenance_Ch12_Start\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 8\CustomerMaintenance_Ch12_Start\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 8\CustomerMaintenance_Ch12_Start\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddVehicle.resources
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 8\CustomerMaintenance_Ch12_Start\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmVehicleAddNormal.resources
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 8\CustomerMaintenance_Ch12_Start\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 8\CustomerMaintenance_Ch12_Start\CustomerMaintenance\obj\Debug\VehicleMaintenance.csproj.GenerateResource.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 8\CustomerMaintenance_Ch12_Start\CustomerMaintenance\obj\Debug\VehicleMaintenance.csproj.CoreCompileInputs.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 8\CustomerMaintenance_Ch12_Start\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 8\CustomerMaintenance_Ch12_Start\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 8\CustomerMaintenance_Ch12_Start\CustomerMaintenance\obj\Debug\VehicleMaintenance.csprojAssemblyReference.cache

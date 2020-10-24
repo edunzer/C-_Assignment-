@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkbox_TextBox_test", "Checkbox_TextBox_test\Checkbox_TextBox_test.csproj", "{4D7F69FA-CD0D-420A-9CA6-4D2524B9BCB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D7F69FA-CD0D-420A-9CA6-4D2524B9BCB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7F69FA-CD0D-420A-9CA6-4D2524B9BCB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7F69FA-CD0D-420A-9CA6-4D2524B9BCB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7F69FA-CD0D-420A-9CA6-4D2524B9BCB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {697CF4CC-0192-469F-8A47-51BBAA0CAE4A}
+	EndGlobalSection
+EndGlobal

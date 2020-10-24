@@ -1,0 +1,10 @@
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\Checkbox_TextBox_test\Checkbox_TextBox_test\bin\Debug\Checkbox_TextBox_test.exe.config
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\Checkbox_TextBox_test\Checkbox_TextBox_test\bin\Debug\Checkbox_TextBox_test.exe
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\Checkbox_TextBox_test\Checkbox_TextBox_test\bin\Debug\Checkbox_TextBox_test.pdb
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\Checkbox_TextBox_test\Checkbox_TextBox_test\obj\Debug\Checkbox_TextBox_test.csprojAssemblyReference.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\Checkbox_TextBox_test\Checkbox_TextBox_test\obj\Debug\Checkbox_TextBox_test.Form1.resources
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\Checkbox_TextBox_test\Checkbox_TextBox_test\obj\Debug\Checkbox_TextBox_test.Properties.Resources.resources
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\Checkbox_TextBox_test\Checkbox_TextBox_test\obj\Debug\Checkbox_TextBox_test.csproj.GenerateResource.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\Checkbox_TextBox_test\Checkbox_TextBox_test\obj\Debug\Checkbox_TextBox_test.csproj.CoreCompileInputs.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\Checkbox_TextBox_test\Checkbox_TextBox_test\obj\Debug\Checkbox_TextBox_test.exe
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\Checkbox_TextBox_test\Checkbox_TextBox_test\obj\Debug\Checkbox_TextBox_test.pdb

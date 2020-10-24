@@ -1,0 +1,10 @@
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 7\StringStuff\StringStuff\bin\Debug\StringStuff.exe.config
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 7\StringStuff\StringStuff\bin\Debug\StringStuff.exe
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 7\StringStuff\StringStuff\bin\Debug\StringStuff.pdb
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 7\StringStuff\StringStuff\obj\Debug\StringStuff.csprojAssemblyReference.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 7\StringStuff\StringStuff\obj\Debug\StringStuff.Form1.resources
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 7\StringStuff\StringStuff\obj\Debug\StringStuff.Properties.Resources.resources
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 7\StringStuff\StringStuff\obj\Debug\StringStuff.csproj.GenerateResource.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 7\StringStuff\StringStuff\obj\Debug\StringStuff.csproj.CoreCompileInputs.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 7\StringStuff\StringStuff\obj\Debug\StringStuff.exe
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 7\LAB 7\StringStuff\StringStuff\obj\Debug\StringStuff.pdb

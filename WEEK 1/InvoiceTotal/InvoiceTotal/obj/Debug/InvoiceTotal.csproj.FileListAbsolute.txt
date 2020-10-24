@@ -1,0 +1,10 @@
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 1\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 1\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 1\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 1\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 1\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 1\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 1\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 1\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 1\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 1\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb

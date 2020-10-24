@@ -1,0 +1,10 @@
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Sum_Evens\Sum_Evens\bin\Debug\Sum_Evens.exe.config
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Sum_Evens\Sum_Evens\bin\Debug\Sum_Evens.exe
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Sum_Evens\Sum_Evens\bin\Debug\Sum_Evens.pdb
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Sum_Evens\Sum_Evens\obj\Debug\Sum_Evens.csprojAssemblyReference.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Sum_Evens\Sum_Evens\obj\Debug\Sum_Evens.Form1.resources
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Sum_Evens\Sum_Evens\obj\Debug\Sum_Evens.Properties.Resources.resources
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Sum_Evens\Sum_Evens\obj\Debug\Sum_Evens.csproj.GenerateResource.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Sum_Evens\Sum_Evens\obj\Debug\Sum_Evens.csproj.CoreCompileInputs.cache
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Sum_Evens\Sum_Evens\obj\Debug\Sum_Evens.exe
+G:\2-COLLEGE-\YR3_TERM-4\C##\WEEK 4\Sum_Evens\Sum_Evens\obj\Debug\Sum_Evens.pdb
